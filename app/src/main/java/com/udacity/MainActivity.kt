@@ -163,7 +163,6 @@ class MainActivity : AppCompatActivity() {
         private const val URL_UDACITY =
             "https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter/archive/master.zip"
         private const val URL_RETROFIT = "https://github.com/square/retrofit/archive/master.zip"
-        private const val CHANNEL_ID = "channelId"
     }
 
 }
